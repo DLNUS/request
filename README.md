@@ -1,0 +1,2 @@
+# request
+基于XMLHttpRequest实现的浏览器端Request
